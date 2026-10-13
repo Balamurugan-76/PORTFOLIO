@@ -1,0 +1,49 @@
+.image {
+    width: 200px;
+    height: 255px;
+    border-radius: 30px;
+    padding: 10px
+}
+
+.containerCard {
+    width: 225px;
+    height: 450px;
+}
+
+.heading {
+    font-size: 17px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 5%;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.strike {
+    font-size: 16px;
+    color: grey;
+    margin-top: 11%;
+    margin-left: 5%;
+
+}
+
+.priceContainer {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 5%;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    width: 95%;
+    height: 38px;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: sans-serif;
+}

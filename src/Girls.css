@@ -1,0 +1,24 @@
+.image {
+    width: 200px;
+    height: 255px;
+    border-radius: 30px;
+    padding: 10px
+}
+
+.containerCard {
+    width: 225px;
+    height: 450px;
+}
+
+.heading {
+    font-size: 17px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 5%;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+}
