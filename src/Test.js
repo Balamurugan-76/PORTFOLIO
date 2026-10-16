@@ -32,7 +32,7 @@ const Test = () => {
 
         <span style={{marginLeft:"50%" , cursor:"pointer"}}onClick={() => setDark(!dark)}>{dark ? "☀️" : "⏾"}</span>
 
-        <form on onSubmit={handleClaculate}>
+        <form  onSubmit={handleClaculate}>
             <label>Enter Birth Year</label><br />
             <input  placeholder='Birth year' onChange={(e) => setBirthyear(e.target.value)} /><br />
             <button type='submit'>Calculate Age</button>
